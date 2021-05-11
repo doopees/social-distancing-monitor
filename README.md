@@ -1,7 +1,7 @@
 # Social distancing monitor
 In this project, computer vision techniques are employed to monitor compliance with the social distancing protocol. In addition, some statistical data are obtained.
 
-[![Demonstration](/media/video.png)](https://www.youtube.com/watch?v=pm3YnYfA7as)
+[![Demonstration](/media/video.png)](https://youtu.be/Wy0imwCRsg0)
 Jupyter notebook [here](https://colab.research.google.com/github/doopees/social-distancing-monitor/blob/main/notebook/social_distancing_monitor.ipynb)
 
 ## Features
