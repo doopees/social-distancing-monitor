@@ -30,7 +30,7 @@ Jupyter notebook [here](https://colab.research.google.com/github/doopees/social-
         `conda install -c conda-forge seaborn`
 
 ### Clone the repository
-        https://github.com/doopees/social-distancing-monitor
+        git clone https://github.com/doopees/social-distancing-monitor
         cd social-distancing-monitor/
 
 ### Get the dataset
